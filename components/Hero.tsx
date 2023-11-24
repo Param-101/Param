@@ -43,13 +43,13 @@ const Hero = () => {
               <a href="#contact">Hire Me</a>
             </button>
 
-            <button className="px-1 py-1 rounded-full bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-800 text-white mt-3 w-full sm:w-fit">
-              <span className=" block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
-                <a href="/" download="/">
+            <a href="/files/CV.pdf" download="CV.pdf">
+              <button className="px-1 py-1 rounded-full bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-800 text-white mt-3 w-full sm:w-fit">
+                <span className=" block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
                   Download CV
-                </a>
-              </span>
-            </button>
+                </span>
+              </button>
+            </a>
           </div>
         </div>
 
