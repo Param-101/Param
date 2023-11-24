@@ -12,7 +12,7 @@ const projectsData = [
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Param-101/Param",
-    previewUrl: "/",
+    previewUrl: "https://param-devgan.web.app",
     
   },
   {
@@ -22,7 +22,7 @@ const projectsData = [
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Param-101/AI-Summariser",
-    previewUrl: "/",
+    previewUrl: "https://ai-summarizer-ps.web.app",
   },
   {
     id: 3,
@@ -31,7 +31,7 @@ const projectsData = [
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Param-101/Nike",
-    previewUrl: "/",
+    previewUrl: "https://nike-ps.web.app",
   },
 ];
 

@@ -40,12 +40,14 @@ const Hero = () => {
 
           <div className="">
             <button className="px-6 py-3 rounded-full mr-4 bg-white hover:bg-slate-200 text-white w-full sm:w-fit bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500">
-              Hire Me
+              <a href="#contact">Hire Me</a>
             </button>
 
             <button className="px-1 py-1 rounded-full bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-800 text-white mt-3 w-full sm:w-fit">
               <span className=" block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
-                Download CV
+                <a href="/" download="/">
+                  Download CV
+                </a>
               </span>
             </button>
           </div>
